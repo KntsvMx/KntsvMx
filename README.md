@@ -1,6 +1,9 @@
-# 💫 About Me:
-I am currently working in the IGame industry in the Studio Operations department and actively seeking opportunities in the FinTech sector. <br>I am focusing on improving my English skills and enhancing my knowledge of Java, the Spring Framework, and various other relevant technologies
 
+# Hi, I'm Maksym 👋  
+
+#### 💫 About Me:
+
+I currently work in the game industry within the Studio Operations department and am actively exploring opportunities in the FinTech sector. I am dedicated to improving my English skills while deepening my expertise in Java, the Spring Framework, and other relevant technologies to further my growth in this vast and ever-evolving field.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/teecry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-kuntsevych-480a84240/) 
