@@ -1,30 +1,57 @@
+<div align="center">
 
-# Hi, I'm Maksym 👋  
+  <h1>Hi 👋, I'm Maksym</h1>
+  <h3>Backend Java Developer | Focused on Clean Code & Scalable Architecture</h3>
 
-#### 💫 About Me:
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=kntsvmx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  </p>
 
-I currently work in the game industry within the Studio Operations department and am actively exploring opportunities in the FinTech sector. I am dedicated to improving my English skills while deepening my expertise in Java, the Spring Framework, and other relevant technologies to further my growth in this vast and ever-evolving field.
+  <br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/teecry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-kuntsevych-480a84240/) 
+  <p>
+    🔭 I’m currently building <b>Island Ecosystem Simulator</b> (Java Multithreading & OOP)<br><br>
+    🌱 I’m deepening my expertise in <b>Hibernate, Maven, and the Spring ecosystem</b><br><br>
+    💬 Ask me about <b>Java Core, Spring Boot, SQL, and Concurrency</b><br><br>
+    📫 How to reach me: <b>kuntsevychmaksymwork@gmail.com</b><br><br>
+    📄 Know more about my experience on <a href="https://www.linkedin.com/in/kuntsevych"><b>LinkedIn</b></a>
+  </p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KntsvMx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KntsvMx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KntsvMx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KntsvMx&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
+  <h3>🤝 Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/kuntsevych" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://discord.gg/teecry" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KntsvMx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <h3>💻 Languages and Tools:</h3>
+  <p> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+    <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=KntsvMx&icon=1&color=10)](https://visitcount.itsvg.in)
+  <br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <h3>📊 GitHub Stats:</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kntsvmx&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="kntsvmx stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kntsvmx&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="kntsvmx top langs" height="150" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kntsvmx&theme=transparent&hide_border=true" alt="kntsvmx streak" />
+  </p>
+
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/trinadhkoya/trinadhkoya/master/assets/line-dark.svg" width="100%" alt="separator">
+
+</div>
