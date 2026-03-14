@@ -10,7 +10,7 @@
   <br>
 
   <p>
-    🔭 I’m currently building <b>Island Ecosystem Simulator</b> (Java Multithreading & OOP)<br><br>
+    🔭 I’m currently learning more frameworks<br>
     🌱 I’m deepening my expertise in <b>Hibernate, Maven, and the Spring ecosystem</b><br><br>
     💬 Ask me about <b>Java Core, Spring Boot, SQL, and Concurrency</b><br><br>
     📫 How to reach me: <b>kuntsevychmaksymwork@gmail.com</b><br><br>
